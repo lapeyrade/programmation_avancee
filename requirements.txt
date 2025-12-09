@@ -1,0 +1,7 @@
+graphviz
+lazypredict
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
